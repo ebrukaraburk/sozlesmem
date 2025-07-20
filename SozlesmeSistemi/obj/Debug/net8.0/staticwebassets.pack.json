@@ -1,0 +1,1137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SozlesmeSistemi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SozlesmeSistemi.7s0q0em8g0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\css\\tinymce-custom.css",
+      "PackagePath": "staticwebassets\\css\\tinymce-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins.zip",
+      "PackagePath": "staticwebassets\\fonts\\Poppins.zip"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\DashboardSquare1.png",
+      "PackagePath": "staticwebassets\\icons\\DashboardSquare1.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\User4.png",
+      "PackagePath": "staticwebassets\\icons\\User4.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\arkaplan.png",
+      "PackagePath": "staticwebassets\\icons\\arkaplan.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\document.png",
+      "PackagePath": "staticwebassets\\icons\\document.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\images.png",
+      "PackagePath": "staticwebassets\\icons\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\images1.png",
+      "PackagePath": "staticwebassets\\icons\\images1.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\notification.png",
+      "PackagePath": "staticwebassets\\icons\\notification.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\process.png",
+      "PackagePath": "staticwebassets\\icons\\process.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\reminder.png",
+      "PackagePath": "staticwebassets\\icons\\reminder.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\sozlesmeistekicon.png",
+      "PackagePath": "staticwebassets\\icons\\sozlesmeistekicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\sozlesmeistekicon1.png",
+      "PackagePath": "staticwebassets\\icons\\sozlesmeistekicon1.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\tusas.png",
+      "PackagePath": "staticwebassets\\icons\\tusas.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\user.png",
+      "PackagePath": "staticwebassets\\icons\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\workflow.png",
+      "PackagePath": "staticwebassets\\icons\\workflow.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\workflow1.png",
+      "PackagePath": "staticwebassets\\icons\\workflow1.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\icons\\writing.png",
+      "PackagePath": "staticwebassets\\icons\\writing.png"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\Contract.js",
+      "PackagePath": "staticwebassets\\js\\Contract.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\contractRequest.js",
+      "PackagePath": "staticwebassets\\js\\contractRequest.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\datatablefiltre.js",
+      "PackagePath": "staticwebassets\\js\\datatablefiltre.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\js\\tinymce-custom.js",
+      "PackagePath": "staticwebassets\\js\\tinymce-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\DataTables\\Turkish.json",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Turkish.json"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\ebruk\\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\\Desktop\\sonhali\\sozlesme_sistemi\\SozlesmeSistemi\\wwwroot\\lib\\tinymce\\js\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SozlesmeSistemi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SozlesmeSistemi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SozlesmeSistemi.props",
+      "PackagePath": "build\\SozlesmeSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SozlesmeSistemi.props",
+      "PackagePath": "buildMultiTargeting\\SozlesmeSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SozlesmeSistemi.props",
+      "PackagePath": "buildTransitive\\SozlesmeSistemi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

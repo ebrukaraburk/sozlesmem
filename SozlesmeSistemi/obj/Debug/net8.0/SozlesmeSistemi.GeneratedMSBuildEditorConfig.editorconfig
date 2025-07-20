@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SozlesmeSistemi
+build_property.RootNamespace = SozlesmeSistemi
+build_property.ProjectDir = C:\Users\ebruk\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Desktop\sonhali\sozlesme_sistemi\SozlesmeSistemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ebruk\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Desktop\sonhali\sozlesme_sistemi\SozlesmeSistemi
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/ContractRequest/AssignedRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RSZXF1ZXN0XEFzc2lnbmVkUmVxdWVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/ContractRequest/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RSZXF1ZXN0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/ContractRequest/MyRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RSZXF1ZXN0XE15UmVxdWVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/ContractRequest/MySentRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RSZXF1ZXN0XE15U2VudFJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Login/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUHJvZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Notification/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Reminder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/Components/ContractProgress/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udHJhY3RQcm9ncmVzc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/Components/UnreadNotification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVW5yZWFkTm90aWZpY2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/DetaySayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcRGV0YXlTYXlmYXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/DuzenlememGerekenSozlesmeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcRHV6ZW5sZW1lbUdlcmVrZW5Tb3psZXNtZWxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/DuzenlemeSayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcRHV6ZW5sZW1lU2F5ZmFzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/EklemeSayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcRWtsZW1lU2F5ZmFzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/GirisEkran.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcR2lyaXNFa3Jhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/IncelemeSayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcSW5jZWxlbWVTYXlmYXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/KarsiRedIncelemeSayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcS2Fyc2lSZWRJbmNlbGVtZVNheWZhc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/KarsiSozlesmeIncelemeleri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcS2Fyc2lTb3psZXNtZUluY2VsZW1lbGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/OnaylanacakSozlesmeler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcT25heWxhbmFjYWtTb3psZXNtZWxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/SilmeSayfasi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcU2lsbWVTYXlmYXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Sozlesme/Taslaklar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU296bGVzbWVcVGFzbGFrbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Statistics/CombinedChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljc1xDb21iaW5lZENoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/ImzaBekleyenler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEltemFCZWtsZXllbmxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/Imzala.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEltemFsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/Imzalananlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEltemFsYW5hbmxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/IncelemeBekleyenler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEluY2VsZW1lQmVrbGV5ZW5sZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/KarsidanGelenler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEthcnNpZGFuR2VsZW5sZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/KarsiReddet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXEthcnNpUmVkZGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/ParafBekleyenler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXFBhcmFmQmVrbGV5ZW5sZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Status/Parafla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzXFBhcmFmbGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ebruk/OneDrive - Bolu Abant İzzet Baysal Üniversitesi/Desktop/sonhali/sozlesme_sistemi/SozlesmeSistemi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-02i0jc8wqz
